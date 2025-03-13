@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Outfit:wght@100..900&family=Satisfy&display=swap');
 .hero{
     background:url("../images2/fuji.jpg");
     background-repeat:no-repeat;
@@ -7,3 +8,22 @@
 .social img{
     width: 42px;
 }
+
+.outfit {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.dancing-script {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.special-red{
+    color: #630f0f;
+}
+
+
+
